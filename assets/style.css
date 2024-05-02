@@ -1,20 +1,7 @@
-@font-face {
-  font-family: 'Aeonik';
-  src: url('../aeonik/AeonikMono-Regular.woff2') format('woff2'),
-    url('../aeonik/AeonikMono-Regular.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Aeonik';
-  src: url('../aeonik/AeonikMono-Bold.woff2') format('woff2'),
-    url('../aeonik/AeonikMono-Bold.woff') format('woff');
-  font-weight: bold;
-  font-style: normal;
-}
+
 
 body {
-  font-family: 'Aeonik', Helvetica, sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 12px;
   line-height: 16px;
   letter-spacing: 0.6px;
